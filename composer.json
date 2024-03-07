@@ -1,0 +1,19 @@
+{
+    "name": "ruben/ipvdata",
+    "type": "project",
+    "require": {
+        "php-webdriver/webdriver": "^1.13",
+        "simpletest/simpletest": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ruben\\Ipvdata\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ruben",
+            "email": "rbeekman@hotmail.com"
+        }
+    ]
+}
